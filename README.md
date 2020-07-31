@@ -3,7 +3,8 @@
 This is a what's app clone 
 
 <img src="https://raw.githubusercontent.com/RockNav24/WhatsApp-clone/master/Screenshot%202020-07-31%20at%2002.45.05.png">
-
+<img src="https://raw.githubusercontent.com/RockNav24/WhatsApp-clone/master/Screenshot%202020-07-31%20at%2002.49.04.png">
+<img src="https://raw.githubusercontent.com/RockNav24/WhatsApp-clone/master/Screenshot%202020-07-31%20at%2002.50.06.png">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
