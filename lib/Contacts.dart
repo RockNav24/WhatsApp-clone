@@ -47,7 +47,7 @@ class ContactsBook extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   Text(
-                    "Sandu dahanayake",
+                    "Navod Santhana",
                     overflow: TextOverflow.ellipsis,
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
